@@ -52,7 +52,7 @@ The application allows users to create and join remote room, perform drawing on 
 2. Start RMI registry
 
    ```bash
-   registry
+   rmiregistry
    ```
 
    By default, the RMI registry uses port `1099`. But we can also set to another port.
@@ -60,7 +60,7 @@ The application allows users to create and join remote room, perform drawing on 
    e.g. 
 
    ```bash
-   registry 8000
+   rmiregistry 8000
    ```
 
 ### Start application
