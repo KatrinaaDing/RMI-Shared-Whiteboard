@@ -5,7 +5,7 @@ A multi-room shared whiteboard application implemented by Java RMI.
 
 This software suite presents a **collaborative whiteboard application**, developed using **Java Remote Method Invocation (RMI)** and a client-server architecture. The application takes on the role of a server upon room initiation by a user, allowing other participants to engage as clients by joining the created room. It boasts an array of functional capabilities, including real-time sketching, a live chatroom, room history preservation, canvas export features, and comprehensive participant management.
 
-
+![whiteboard](images/whiteboard.png)
 
 ## **Table of Content**
 
