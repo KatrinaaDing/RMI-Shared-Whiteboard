@@ -13,7 +13,7 @@ This software suite presents a **collaborative whiteboard application**, develop
 
 ## **Features**
 
-The application allows users to create and join remote room, perform drawing on a whiteboard and chat together without noticeable delay. The application also support participants management and room data import and export. Detailed features are stated asa below:
+The application allows users to create and join remote room, perform drawing on a whiteboard and chat together without noticeable delay. The application also support participants management and room data import and export. Detailed features are stated as below:
 
 1. **As a Room Administrator**, a user:
    1. Has the ability to create a room.
