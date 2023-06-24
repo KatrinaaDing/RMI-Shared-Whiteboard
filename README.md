@@ -16,25 +16,25 @@ This software suite presents a **collaborative whiteboard application**, develop
 The application allows users to create and join remote room, perform drawing on a whiteboard and chat together without noticeable delay. The application also support participants management and room data import and export. Detailed features are stated asa below:
 
 1. **As a Room Administrator**, a user:
-   1. Has the ability to instantiate a room.
-   2. Can respond to requests for room participation.
-   3. Can dismiss a participant from a room.
-   4. Can conclude the meeting in a seamless manner.
-   5. Can access, save, and duplicate the current drawings and chat history.
+   1. Has the ability to create a room.
+   2. Can respond to requests for join-room request.
+   3. Can remove a participant from a room.
+   4. Can end the meeting and notify all participants.
+   5. Can perform "open", "save", and "save as" the current drawings and chat history.
    6. Can clear the whiteboard.
 2. **As a Room Participant**, a user:
-   1. Can issue a request to join a room.
-   2. Can become part of a room.
-   3. Can exit the room without disruption.
+   1. Can send a request to join a room.
+   2. Can join a room after room admin permits.
+   3. Can exit the room with notification sent to all other participants.
 3. **Universal User Features** (applicable to both administrators and participants):
-   1. Can discover all available rooms.
+   1. Can discover all available rooms and select one to join.
    2. Can view all active users in the room.
    3. Can identify users who have disconnected from the room.
-   4. Can select and draw various shapes on the canvas, including circles, lines, ovals, rectangles, text and freehand shapes.
-   5. Can set different colours for the shapes drawn.
-   6. Can adjust the stroke width of the shapes drawn.
+   4. Can select and draw various shapes on the whiteboard, including circles, lines, ovals, rectangles, text and freehand shapes.
+   5. Can set different colours to draw.
+   6. Can adjust the stroke width of the shapes to draw.
    7. Can choose whether to display the author's label on each drawing.
-   8. Can contribute to the room's chat conversation.
+   8. Can send messages to the chat room.
    9. Can export the current canvas to an image format.
 
 ### 
