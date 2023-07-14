@@ -1,11 +1,12 @@
 # RMI-Shared-Whiteboard
+
 A multi-room shared whiteboard application implemented by Java RMI.
 
 ## **Introduction**
 
 This software suite presents a **collaborative whiteboard application**, developed using **Java Remote Method Invocation (RMI)** and a client-server architecture. The application takes on the role of a server upon room initiation by a user, allowing other participants to engage as clients by joining the created room. It boasts an array of functional capabilities, including real-time sketching, a live chatroom, room history preservation, canvas export features, and comprehensive participant management.
 
-![whiteboard](images/whiteboard.png)
+![quick-demo](images/quick-demo.gif)
 
 ## **Table of Content**
 
@@ -37,7 +38,11 @@ The application allows users to create and join remote room, perform drawing on 
    8. Can send messages to the chat room.
    9. Can export the current canvas to an image format.
 
-### 
+## System Architecture
+
+
+
+<img src="images/architecture.png" alt="architecture" style="zoom: 50%;" />
 
 ## **Run the application**
 
